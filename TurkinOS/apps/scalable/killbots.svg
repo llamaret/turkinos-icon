@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="minitube 2.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1237">
+      <stop
+         style="stop-color:#00b2ad;stop-opacity:1"
+         offset="0"
+         id="stop1233" />
+      <stop
+         style="stop-color:#00ceca;stop-opacity:1"
+         offset="1"
+         id="stop1235" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1237"
+       id="linearGradient1239"
+       x1="144.45918"
+       y1="301.07581"
+       x2="146.99823"
+       y2="265.79623"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.67305346,0,0,0.67305346,38.229995,100.11781)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="244.88756"
+     inkscape:cy="-37.620514"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="803"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     showguides="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-263.13332)">
+    <g
+       id="g1273"
+       transform="matrix(0.98056853,0,0,0.98056853,-113.29148,-4.8476535)">
+      <circle
+         style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02536525;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1261"
+         cx="132.80542"
+         cy="290.87491"
+         r="15.875" />
+      <circle
+         r="15.875"
+         cy="290.34573"
+         cx="132.80542"
+         id="path1229"
+         style="opacity:1;fill:url(#linearGradient1239);fill-opacity:1;stroke:#006a67;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="2.788244"
+         cy="295.78369"
+         cx="127.54372"
+         id="circle1243"
+         style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.00445509;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#006a67;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1231"
+         cx="127.54372"
+         cy="295.42755"
+         r="2.788244" />
+      <circle
+         style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.00445509;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1245"
+         cx="132.94032"
+         cy="282.29221"
+         r="2.788244" />
+      <circle
+         r="2.788244"
+         cy="281.93604"
+         cx="132.94032"
+         id="circle1241"
+         style="opacity:1;fill:#69dddd;fill-opacity:1;stroke:#006a67;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

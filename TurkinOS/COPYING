@@ -1,0 +1,29 @@
+Copyright (c) 2015-2019 Maikel Llamaret Heredia <llamaret@webmisolutions.com>.
+
+The GNU General Public License or GPL is written for software projects.
+However, we expressly want the GPL to be valid for artwork and relevant
+assets alone that are included in this project.
+
+Source code, for this artwork project means:
+    - where they exist, SVG;
+    - otherwise, if applicable, the multi-layered formats XCF, PSD, SVGZ;
+    - otherwise, if applicable, PNG or JPG/JPEG.
+
+Regarding this project as a whole: the GPL applies exclusively to vector,
+raster, bitmap, and/or multi-layered image files that may be considered
+artworks in this software project.
+
+The GPL in some sections obliges you to make the files carry notices.
+With images this is in some cases impossible or hardly useful.
+With this project a notice is placed at a prominent place in the directory
+containing the elements. You may follow this practise.
+
+Inkscape may by default place a "Propriety License" property in SVG
+metadata, or otherwise display this in the GUI where no metadata license
+tag exists; this declaration is to be ignored where it appears.
+
+All the artwork in this project is freely licensed under the GNU General
+Public License and must be treated as such, regardless of assumed metadata or
+other declarations.
+
+----
